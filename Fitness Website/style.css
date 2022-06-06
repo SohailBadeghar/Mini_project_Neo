@@ -307,7 +307,7 @@ nav .open,.close{
     min-height: 100vh;
     padding: 2% 6%;
     text-align: center;
-    
+
 }
 .pricing_table h1{
     font-size: 3.8rem;
@@ -562,7 +562,36 @@ span{
     background: url(https://images.unsplash.com/photo-1565514158740-064f34bd6cfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
 }
 
+#members{
+	padding: 100px;
+	background-size: 35% 35%;
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+.member-card{
+	text-align: center;
+	padding-top: 50px;
+	width: 50%;
+	margin:auto;
+	}
 
+.member-card p{
+	margin:20px 0px;
+}
+.member-card h2{
+	margin:20px 0px;
+}
+
+.services-info{
+	text-align: center;
+}
+.services-info h1{
+	font-size: 50px;
+}
+.services-info p{
+	font-size: 25px;
+	font-weight: bold;
+}
 
 
 
