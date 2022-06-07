@@ -146,3 +146,6 @@ function myFunction() {
         $('#para').text( "WORK HARD UNTIL SUCCESS BECOME EASIER TO YOU")
     });
 });
+
+
+
