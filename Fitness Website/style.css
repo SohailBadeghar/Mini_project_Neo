@@ -98,7 +98,7 @@ nav .open,.close{
         top: 0;
         right:0;
         border-radius: 1.2rem;
-        background-color: #fff;
+        background-color: rgb(36, 21, 21);
         display: none;
         justify-content: center;
         align-items: center;
@@ -408,7 +408,7 @@ nav .open,.close{
     resize: none;
     padding: 1rem;
 }
-@media (max-width:1100px) {
+@media (max-width:1800px) {
     .register form .input_box input{
         width: 100%;
     }
@@ -582,16 +582,7 @@ span{
 	margin:20px 0px;
 }
 
-.services-info{
-	text-align: center;
-}
-.services-info h1{
-	font-size: 50px;
-}
-.services-info p{
-	font-size: 25px;
-	font-weight: bold;
-}
+
 
 
 
