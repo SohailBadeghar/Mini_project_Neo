@@ -408,10 +408,18 @@ nav .open,.close{
     resize: none;
     padding: 1rem;
 }
-@media (max-width:1800px),(max-height:1100px){
+@media (max-width:878px),(max-height:1034px){
     .register form .input_box input{
         width: 100%;
     }
+}
+@viewport{
+    zoom:1.0;
+    width: extend-to-zoom;
+}
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom:1.0;
 }
 /* Start Footer */
 footer{
