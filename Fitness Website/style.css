@@ -408,7 +408,7 @@ nav .open,.close{
     resize: none;
     padding: 1rem;
 }
-@media (max-width:1100px) {
+@media (max-width:1800px),(max-height:1100px){
     .register form .input_box input{
         width: 100%;
     }

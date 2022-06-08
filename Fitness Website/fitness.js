@@ -31,10 +31,4 @@ function myFunction() {
     }
   }
 
-  $(document).ready(function(){
-    $("#btn").click(function(){
-        $('#para').text( "WORK HARD UNTIL SUCCESS BECOME EASIER TO YOU")
-    });
-});
-
 
